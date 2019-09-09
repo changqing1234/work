@@ -1,0 +1,3 @@
+今天上了it伦理课。
+看了西瓜书的半监督学习内容，没看完。回头接着看。
+将上次看的论文，SecureML: A System for ScalablePrivacy-Preserving Machine Learning重新看了一遍。
