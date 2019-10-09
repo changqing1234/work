@@ -1,0 +1,4 @@
+今天继续看<SecureML: A System for ScalablePrivacy-Preserving Machine Learning>的隐私保护机器学习的内容。
+在线性回归的隐私保护中，数据在两个服务器之间是秘密共享的。在共享十进制数的算术运算方面，作者提出了截断技术，对小数位先进行截断后
+重建。在保护逻辑回归的协议中，作者提出了新的激活函数。内容讲的很深，看的不太明白。准备以后再看一遍。
+然后看了安全多方计算协议的论文。Protocols for Secure Computations。刚看完引言部分，明天准备将后面的内容看完。
