@@ -1,0 +1,3 @@
+今天在做线性回归实验，训练和预测。
+看了论文<Secure Linear Regression on VerticallyPartitioned Datasets>，看了摘要和引言。
+论文提出使用混合多方安全计算和混淆电路来保护线性回归算法的隐私。
