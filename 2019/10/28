@@ -1,0 +1,4 @@
+今天在看师兄给的论文。《Lightweight Privacy-Preserving Ensemble Classification for Face Recognition》
+论文提出基于加性秘密共享和边缘计算的轻量级隐私保护自适应增强（AdaBoost）分类框架，用于人脸识别。
+通过扩展有效输入范围来改进当前基于加性秘密共享的求幂和对数函数，然后，通过使用协议，部署两个边缘服务器协作完成AdaBoost的整体分类以进行人脸识别。
+边缘计算的应用确保了POR的效率和鲁棒性。
