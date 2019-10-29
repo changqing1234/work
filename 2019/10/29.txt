@@ -1,5 +1,0 @@
-今天继续看论文《Lightweight Privacy-Preserving Ensemble Classification for Face Recognition》
-看了预备工作和安全模型。AdaBoost是一种增强分类器，能够将多个较弱的分类器组合为一个更强大的分类器。
-在训练过程中，根据弱分类器的错误率，对AdaBoost的权重向量ω进行连续更新。
-隐私保护面部识别系统包括五种类型的参与者，分别是图像收集设备、基本安全分类器C、边缘服务器Si、受信任的第三方和识别服务提供商。
-下午上了高级人工智能课，晚上大组会。
