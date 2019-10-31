@@ -1,0 +1,5 @@
+今天又找了一篇AAAI论文<Optimizing Discount & Reputation Trade-Offs in E-Commerce Systems: Characterization and Online Learning>
+论文讲的是如何在商品折扣和卖家需求之间做出平衡，以便能赚取最大的利润。论文通过半马尔可夫决策过程（SMDP）阐述利润最大化问题，
+以探索选择折扣和需求之间的最佳权衡。论文证明了最优利润和最优折扣的单调性，基于该单调性，论文设计了一种QLFP（正向投影Q学习）算法，
+该算法从历史交易数据中推断出最优折扣。
+晚上在上分组密码课
