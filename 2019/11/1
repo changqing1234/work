@@ -1,0 +1,5 @@
+今天将上次的论文《LiveBot: Generating Live Video Comments Based on Visual and Textual Contexts》看完了，
+ 论文使用两个模型Fusional RNN 模型和Unified Transformer 模型来生成实时评论。对于Fusional  RNN模型，两个模型都包含三部分：视频编码器，文本编码器和注释解码器。
+ 视频编码器对m个连续的帧进行编码，而文本编码器将m个周围的实时评论编码为矢量，最后，评论解码器生成实时评论。模型的评估采用的是排名，
+ 要求模型根据对数似然得分对一组实时评论进行排序，根据其将正确评论排在顶部的能力来区分一个模型的好坏。
+ 明天上组合数学，今天预习了组合数学
