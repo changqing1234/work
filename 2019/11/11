@@ -1,0 +1,5 @@
+今天看论文<Privacy-preserving Outsourced Speech Recognition for Smart IoT Devices>
+由于传统的语音识别框架使用明文收集和传输语音消息，可能会导致用户的隐私泄露，因此，论文提出了
+一种用于LSTM网络和边缘计算的智能loT设备隐私保护语音识别的框架，设计了一系列基于加性秘密共享的交互式
+协议。
+论文使用了LSTM网络，所以今天上网查博客学习LSTM网络的原理。
