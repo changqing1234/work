@@ -1,0 +1,4 @@
+今天在看<Privacy-preserving Outsourced Speech Recognition for Smart IoT Devices>论文的的安全子协议部分。后面的隐私保护lstm框架需要使用这些安全
+子协议来进行计算。论文用到了安全指数函数，安全倒数函数，安全自然对数，安全加法，安全乘法，安全比较协议。然后看了LSTM训练的的前向阶段。前向阶段涉及
+遗忘门，输入门，输出门。具体每个门的细节内容没看，明天看。
+下午上了机器学习课。
