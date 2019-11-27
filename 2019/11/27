@@ -1,0 +1,6 @@
+今天看了曹双龙师兄的论文，<Lightweight Outsourced Privacy-preservingHeart Failure Prediction Based on GRU>。
+论文文提出了一种基于安全多方计算（SMC）和GRU的隐私保护性心力衰竭预测（PHFP）系统。为了满足PHFP系统的实时要求，
+基于秘密共享设计了一系列数据交互协议，以实现轻量级的外包计算。通过这些协议，可以在确保预测模型的效率的同时，保护用户的健康数据隐私。
+跟马卓的论文很类似，马卓的论文是保护LSTM，曹双龙师兄的是保护GRU。
+下午上了机器学习课
+
