@@ -1,0 +1,3 @@
+今天在看吴恩达的机器学习视频。
+重新看了一遍《Lightweight Privacy-Preserving Ensemble Classiﬁcation for Face Recognition》中的隐私保护Adaboost的训练过程，
+包括前向阶段FSA和多个弱分类器的线性相加。
