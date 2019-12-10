@@ -1,0 +1,4 @@
+今天找了一篇2019的论文，在arXiv preprint arXiv里面，<CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning>
+论文使用量化和拉格朗日编码技术设计了一种分布式的隐私保护机器学习框架，可以显著降低通信和计算开销。与基于MPC计算的隐私保护机器相比，性能提升几个数量级。
+将数据和参数量化，编码，分散多个机器上进行训练，求解梯度，主服务器解码计算结果，执行梯度更新。对编码的数据进行计算跟真实的数据计算类似。
+这篇文章的性能比安全多方计算提高了几个数量级，效果提升很显著，准备仔细看下论文的具体框架部分。
