@@ -1,0 +1,4 @@
+今天找了一篇2018年的ccs论文<Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications>,
+论文提出了一个新的混合安全计算框架，混合了加性秘密共享、GMW、GC协议，支持带符号的定点数运算。大量的加密操作在离线阶段进行，减少了
+通信开销，在cnn网络上测试时，性能比Microsoft 的CryptoNets（ICML’16）和MiniONN（CCS’17）快133倍和4.2倍。没仔细看具体的框架内容，以后如果用框架，再仔细看
+找大创题目
