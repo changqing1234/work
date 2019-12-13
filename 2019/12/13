@@ -1,0 +1,4 @@
+今天接着昨天的论文<Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications>，只看了加性秘密共享的内容，论文提出的加性秘密
+共享是在整数域上进行操作，支持带符号的定点运算。
+然后在tensorflow上做深度学习的实验。
+给本科生找了些学习资料。
