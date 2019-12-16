@@ -1,0 +1,3 @@
+今天找了一篇ccs2019的论文，<QUOTIENT: Two-Party Secure Neural Network Training and Prediction>，基于安全多方计算提出了QUOTINT方案，在DNN上测试性能，
+训练时间比以前的方案减少了50%，准确度提高了6%。论文设计了新的定点优化算法，基于透明传输提出了矩阵乘法协议。方法还是用安全多方计算，感觉创新点不是很多。
+给本科生指导大创
