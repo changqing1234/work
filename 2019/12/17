@@ -1,0 +1,4 @@
+今天上网在GitHub上找到了2018年《A generic framework for privacy preserving deep learning》的代码，环境没配好，代码没跑起来。
+指导本科生写大创申请书
+ 今天接着看上次的论文<CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning>的框架部分，用到了多项式近似求
+ 非线性函数，和秘密共享。首先对数据进行编码，然后再使用秘密共享，最后解码结果，更新模型参数。
