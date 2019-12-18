@@ -1,0 +1,3 @@
+今天继续看论文<CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning>框架部分，里面用了量化，将数据集量化成
+整数。今天上网查了神经网络的量化方法，自己用代码简单实现了数据量化
+然后看昨天找的隐私保护深度学习的代码，
