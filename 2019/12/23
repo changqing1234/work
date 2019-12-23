@@ -1,0 +1,3 @@
+今天在学cnn，看深度学习书。
+找了一篇ccs2019论文<QUOTIENT: Two-Party Secure Neural Network Training and Prediction>,论文基于OT透明传输设计了三元矩阵乘法，结合布尔共享和加性共享提高
+效率。设计了新的定点优化算法，看了摘要和引言，后面明天看。
