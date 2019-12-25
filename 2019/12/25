@@ -1,0 +1,3 @@
+今天在看师兄上次给的隐私保护LSTM代码，训练过程没看太懂，准备找无隐私保护的LSTM的代码看看。
+继续看<ABY3: A Mixed Protocol Framework for Machine Learning>，里面使用了安全多方计算中的混淆电路garbled circuit，论文讲的很少，所以上网搜了混淆电路的内容，网上讲解这
+方面的内容很少，看的不是太懂。还在看论文的框架部分。
