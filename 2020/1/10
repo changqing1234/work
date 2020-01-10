@@ -1,0 +1,3 @@
+今天在看<A Lightweight Privacy-Preserving CNN Feature Extraction Framework for Mobile Sensing>,隐私保护方法还是秘密共享,对图像数据拆分,发给两个边缘服务器，
+在两个边缘服务器上进行协作运算,提取图像特征。跟隐私保护LSTM和ADboost的论文类似。将子协议（安全加法，减法，安全乘法，安全比较）看完了，隐私保护cnn的框架
+部分刚开始看。
