@@ -1,4 +1,4 @@
 今天上了算法设计的网课
-前天找了一篇Information Sciences（2019）的论文，今天接着看，Non-interactive privacy-preserving neural network prediction。论文提出了一个新的外包模型，
+前几天找了一篇Information Sciences（2019）的论文，，Non-interactive privacy-preserving neural network prediction。论文提出了一个新的外包模型，
 在两个非串通服务器之间保护神经网络预测，可以将训练好的神经网络模型安全的外包给两个服务器，两个服务器在加密的输入数据上进行预测结果。论文将同态加密技术和秘密共享结合。
 ，将训练好的神经网络模型拆分为两个部分分别放在两个服务器上。
