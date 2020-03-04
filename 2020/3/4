@@ -1,0 +1,3 @@
+今天找了一篇论文<Privacy-preserving and high-accurate outsourced disease predictor on random forest >(information sciences 2019)。
+论文使用加法同态加密来进行隐私保护，使用云服务器进行训练和预测模型。基于随机森林提出和加法同态加密提出隐私保护疾预测方案PHPR。本文最大的贡献是将计算拓展到了有理数域。以往的加密算法都是针对整数，
+不能直接操作，所以很多论文的解决方法是将原数据乘以某个数再四舍五入得到整数，但是这样做会导致精度下降，导致预测的效果不好。
