@@ -1,0 +1,4 @@
+上午看大数据网课，写大数据作业
+下午上数据库网课
+今天找了一篇2018TIFS的论文，Privacy-Preserving Deep Learning via Additively Homomorphic Encryption，论文使用加法同态加密保护深度学习，
+论文在效率和隐私之间做出权衡，通过增加通信成本来实现安全的加密。
