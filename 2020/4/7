@@ -1,0 +1,3 @@
+今天上午预习可证明安全理论，下午上课
+看了论文的引用的参考文献，Conditional image synthesis with auxiliary classifier gans（ICML2017），
+这个引用的论文提出了GAN的变体AC-GAN，在原始GAN的基础上，增加分类的功能，可以生成指定类别的样本，提高了生成图片的质量。
