@@ -1,0 +1,4 @@
+上英语课
+看论文Local Model Poisoning Attacks to Byzantine-Robust Federated Learning。论文提出的攻击方法是伪造本地训练模型，然后上传伪造的模型，
+通过不断的迭代，使得全局模型的误差不断变大。论文针对Krum, Bulyan, trimmed mean, amedian 这四种安全聚合方案进行攻击。
+这几种方案可以防止拜占庭错误，但是防止不了作者提出的攻击方式。攻击方案还没看完，还在继续看
