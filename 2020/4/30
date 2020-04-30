@@ -1,0 +1,5 @@
+今天上了数据库课
+看上次师兄给的论文，感觉写的还不错，Local Model Poisoning Attacks to Byzantine-Robust Federated Learning（Usenix Security Symposium2020）
+这个论文也是攻击联邦学习，上次讲的论文采用的联邦平均算法，这个论文采用的四种安全聚合的算法。 Krum ，Bulyan , trimmed，mean, and median。这四个方案
+都是具有拜占庭鲁棒性，可以应对出现的系统错误，或者对抗操作。以往的攻击是数据投毒攻击，添加人为设计的数据，让模型参数变差。这个论文的是采用伪造或
+修改本地模型进行攻击，没有对数据集进行操作。
