@@ -1,0 +1,5 @@
+今天找了一篇ccs2019防御论文。MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples
+这篇论文是防御成员推理攻击。成员推理攻击是Membership Inference Attacks Against Machine Learning Models. (S&p2107)论文提出的。
+这篇论文提出了MemGuard，这是在黑盒设置下，第一个使用正式的utility-loss抵御成员推理攻击。提出了一种新的算法来寻找满足唯一utility-loss约束的噪声向量。
+推导出了把噪声向量加到置信评分向量的概率的解析解。在三个真实的数据集上评估了MemGuard。结果表明，MemGuard是有效的，并优于现有的防御。
+下午上数据库网课
