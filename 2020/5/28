@@ -1,0 +1,4 @@
+今天找了一篇ccs2019的论文，QUOTIENT: Two-Party Secure Neural Network Training and Prediction。这个论文是安全多方计算应用到神经网络训练
+和预测上。论文提出了一种新的DNN安全两方训练和评估方法。论文提出了一种基于茫然传输的三值矩阵-向量乘法的专用协议，该协议结合了布尔共享和
+加性共享来提高效率。
+下午数据库网课
