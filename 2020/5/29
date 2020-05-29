@@ -1,0 +1,3 @@
+今天继续接着看昨天的论文QUOTIENT: Two-Party Secure Neural Network Training and Prediction的隐私保护框架。论文
+对模型梯度进行量化，在定点数上使用安全乘法进行前行传播和反向传播。框架没看完，还在看。
+今天给本科生重新找了一些中文的论文，整理了一些简单的代码，书籍给他们。
