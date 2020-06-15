@@ -1,0 +1,5 @@
+上午英语课，下午算法设计与分析
+晚上跟师兄讨论有哪些可做的地方，师兄给了我一篇论文，让我先看。
+Shielding Collaborative Learning: MitigatingPoisoning Attacks through Client-Side Detection(TDSC)。是关于防御协同攻击的论文。
+刚开始看。论文提出了一种新颖的防御方案，用于检测IID和非IID设置中的异常更新。关键思想是实现客户端交叉验证，其中每次更新都是根据
+其他客户端的本地数据进行评估的。执行聚合时，服务器将根据评估结果调整更新的权重。
