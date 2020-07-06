@@ -1,0 +1,3 @@
+ICML2019的一篇联邦学习攻击论文Analyzing Federated Learning through an Adversarial Lens
+论文在github上给了代码
+论文提出了一种新的模型投毒攻击，论文提出隐形的模型攻击防止被恶意更新被检测到。论文指出拜占庭聚合更新方法对该方案也无防御效果。
