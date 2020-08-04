@@ -1,0 +1,1 @@
+今天用cnn跑了nnist，fashion-mninst，cifar10 dcgan数据集，看看这些原始方法能跑到多少精度。留着以后与分布式的训练精度进行对比。
