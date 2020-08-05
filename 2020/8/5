@@ -1,0 +1,4 @@
+今天在fashion-mnist数据集训练GAN， 发现GAN很难训练，如果从模型恢复数据感觉也很难。
+所以今天重新看了上次的论文，PDGAN: A Novel Poisoning DefenseMethod in Federated Learning Using Generative Adversarial Network，论文通过GAN来恢复
+客户端的数据，用恢复的数据来评价子模型。
+准备根据这个论文再做实验看看，如果训练结果不好，就考虑用VAE变分编码器，不用GAN 了。
