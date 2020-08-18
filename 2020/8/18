@@ -1,0 +1,7 @@
+今天做实验发现，在网络的输出层使用使用k-means已经达到了很高的检测率，试了几个客户端的标签翻转攻击，都被检测出来了，突然感觉使用gan的作用意义不大了。
+在看其他论文想想其他方法。
+今天看了一篇后门攻击和一个防御的论文。
+后门攻击论文BadNets Identifying Vulnerabilities in the Machine Learning Model Supply Chain，
+论文通过给训练图片的像素加入某些触发器，来引入后门。触发器是图片某个区域的像素值。今天试了代码，攻击的精度很高。
+看了一篇防御论文STRIP: a defence against trojan attacks on deep neural networks就是防御上面的后门攻击的，在预测阶段将一批正常样本当做水印对要预测的图片进行扰动，
+然后预测阶段判断输出标签的熵值。熵值很小就判定为含有触发器的有毒样本。
