@@ -1,0 +1,3 @@
+今天看了一篇论文，Exploiting Defenses against GAN-Based Feature Inference Attacks in Federated Learning，论文还没正式发表，
+论文使用GAN来防御基于宋孟凯和GAN-base的攻击。这两个攻击分别属于客户端、服务器的攻击，都可以泄露客户端的数据。这个论文在受害者客户端上也训练一个gan，在模型训练
+前，先用gan的生成器来表示数据，然后用生成的数据来训练模型。这个论文本上次的ICLR的集中式防御的论文方法非常相似。也是用gan的生成器来表示数据，再进行训练或分类。
