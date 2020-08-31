@@ -1,0 +1,3 @@
+今天看了一篇ICLR2018的一篇用于高维度异常检测的论文，DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION
+论文提出了一种用于无监督异常检测的深度自动编码高斯混合模型（DAGMM），利用深层自动编码器为每个输入数据点生成低维表示和重构误差，并将其进一步馈入高斯混合模型（GMM）。
+感觉这个方法可以用在联邦学习的非独立同分布环境中，用来检测异常子模型，论文还在看，准备找找论文的代码，看看如何用在联邦学习中。
