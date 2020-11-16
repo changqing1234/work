@@ -1,0 +1,3 @@
+今天重新看上次找的论文DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION (ICLR 2018)
+论文提出用于无监督异常检测的深层自编码高斯混合模型(DAGMM)。该模型利用深度自动编码器对每个输入数据点生成低维表示和重构误差，
+并将其输入到高斯混合模型(GMM)中。在想着将自动编码器应用到异常模型检测当中。
