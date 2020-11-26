@@ -1,0 +1,4 @@
+今天找了一篇b会的论文On the Byzantine Robustness of Clustered Federated Learning ICASSP 2020，这篇论文的方法使用的是我上次提到余弦相似度，
+通过计算本地模型之间的余弦相似度来区分正常和异常模型。论文没看完。
+下午在弄物联网比赛的评分。
+今天程师兄给我提了建议，让我将模型换成lstm或gru看看效果怎么样，准备做实验室看看效果。
