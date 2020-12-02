@@ -1,0 +1,2 @@
+今天重新看了一遍Shielding Collaborative Learning: Mitigating Poisoning Attacks through Client-Side Detection(TDSC2020)的实验设置和实验结果部分。
+发现这个论文也没给出攻击成功率的曲线图，而是给出其中几个数值。准备不再纠结曲线不平滑问题了，准备改用几个攻击成功率数值或某类标签错分类的精度图来表示攻击的效果。
